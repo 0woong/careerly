@@ -1,0 +1,34 @@
+body {
+  background-color: #f7f7f7;
+}
+
+.posts {
+  background-color: white;
+  border: 1px solid lightgray;
+  width: 546px;
+  height: 374px;
+  margin: 100px auto auto auto;
+  padding: 30px;
+}
+
+.writer {
+  display: flex;
+  margin: 0 15px 0 0;
+}
+
+.softly {
+  color: #767676;
+}
+
+.linkbox {
+  width: auto;
+  height: auto;
+  background-color: #f7f7f7;
+  padding: 20px;
+}
+
+.cgd {
+  display: flex;
+  justify-content: space-between;
+  word-spacing: 20px;
+}
