@@ -2,7 +2,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,yarn
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,visualstudiocode,yarn
 
-node_modules/
+node_modules
 
 ### macOS ###
 # General
